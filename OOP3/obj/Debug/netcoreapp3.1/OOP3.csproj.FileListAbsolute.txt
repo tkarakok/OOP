@@ -1,0 +1,13 @@
+D:\Kodlama.io\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+D:\Kodlama.io\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+D:\Kodlama.io\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+D:\Kodlama.io\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+D:\Kodlama.io\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+D:\Kodlama.io\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+D:\Kodlama.io\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+D:\Kodlama.io\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+D:\Kodlama.io\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+D:\Kodlama.io\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+D:\Kodlama.io\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+D:\Kodlama.io\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
+D:\Kodlama.io\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.AssemblyReference.cache
